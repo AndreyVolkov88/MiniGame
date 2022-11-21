@@ -1,1 +1,1 @@
-# **"[Board - touch me ](https://andreyvolkov88.github.io/MimiGame/)"**
+# **"[Board - touch me ](https://andreyvolkov88.github.io/coloredBoard/)"**
